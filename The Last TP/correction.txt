@@ -1,0 +1,84 @@
+Numéro d'équipe :
+Lien vers le dépôt GitHub PRIVÉ de votre TP :
+Avez-vous invité les correcteurs comme collaborateurs à votre dépôt GitHub (Oui/Non) :
+
+Étudiant 1 :
+    - Nom complet :
+    - Numéro de dossier (NI) :
+    - Estimation du temps de réalisation :
+
+Étudiant 2 :
+    - Nom complet :
+    - Numéro de dossier (NI) :
+    - Estimation du temps de réalisation :
+
+
+Fonctionnalités
+----------------
+
+/2 : projectile.Projectile.__init__ PROPREEEE
+     Commentaires :
+
+/2 : cible.Cible.__init__      PROPREEEE
+     Commentaires :
+
+/3 : cible.Cible.creer_nouvelle_cible   PROPREEEE
+     Commentaires :
+
+/3 : cible.Cible.est_touchee    PROPREEEE
+     Commentaires :
+
+/3 : canon.Canon.mettre_a_jour       PROPREEEE
+     Commentaires :
+
+/1 : statut_jeu.StatutJeu.mettre_a_jour_score   PROPREEEE
+     Commentaires :
+
+/1 : statut_jeu.StatutJeu.mettre_a_jour_tentatives_restantes    PROPREEEE
+     Commentaires :
+
+/1 : statut_jeu.StatutJeu.mettre_a_jour_niveau    PROPREEEE
+     Commentaires :
+
+/2 : commandes_jeu.CommandesJeu.__init__      PROPREEEE
+     Commentaires :
+
+/3 : classement.Classement.charger_scores
+     Commentaires :
+
+/4 : classement.Classement.afficher
+     Commentaires :
+
+/8 : jeu_de_canon.JeuDeCanon.tirer
+     Commentaires :
+
+/5 : Création et gestion d'exceptions personnalisées (pour l'angle et la puissance)
+     au niveau de la méthode jeu_de_canon.JeuDeCanon.tirer
+     Commentaires :
+
+/2 : jeu_de_canon.JeuDeCanon.afficher_message_touche
+     Commentaires :
+
+/2 : jeu_de_canon.JeuDeCanon.soumettre_score
+     Commentaires :
+
+/5 : Qualité du code (noms des variables, lisibilité, etc)
+     Commentaires :
+
+
+-------
+
+/3: Lien du dépôt GitHub PRIVÉ présent et démontrant l'utilisation de Git
+    Commentaires:
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+Total : /50
