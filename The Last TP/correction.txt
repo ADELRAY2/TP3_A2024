@@ -1,11 +1,11 @@
 Numéro d'équipe :
-Lien vers le dépôt GitHub PRIVÉ de votre TP :
-Avez-vous invité les correcteurs comme collaborateurs à votre dépôt GitHub (Oui/Non) :
+Lien vers le dépôt GitHub PRIVÉ de votre TP :https://github.com/ADELRAY2/TP3_A2024.git
+Avez-vous invité les correcteurs comme collaborateurs à votre dépôt GitHub (Oui/Non) : oui
 
 Étudiant 1 :
-    - Nom complet :
+    - Nom complet : CHABATI Adel
     - Numéro de dossier (NI) :
-    - Estimation du temps de réalisation :
+    - Estimation du temps de réalisation : 80h 
 
 Étudiant 2 :
     - Nom complet :

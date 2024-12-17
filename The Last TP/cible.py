@@ -31,7 +31,7 @@ class Cible:
         self.x = random.randint(400, 750)
         self.y = random.randint(50, 550)
         self.identifiant = self.canvas.create_oval(
-            self.x, self.y, self.x + 10, self.y + 10, fill="#FF0000", outline=""
+            self.x, self.y, self.x + 20, self.y + 20, fill="#FF0000", outline=""
         )
     def est_touchee(self, projectile):
         """Vérifie si la cible est touchée par un projectile aux coordonnées données.
