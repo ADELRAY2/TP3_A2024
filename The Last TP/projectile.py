@@ -39,7 +39,7 @@ class Projectile:
     def creer_projectile(self):
         """Crée le projectile sur la toile."""
         self.identifiant = self.canvas.create_oval(
-            self.x, self.y, self.x + 10, self.y + 10, fill="#1E90FF", outline=""
+            self.x, self.y, self.x + 20, self.y + 20, fill="#1E90FF", outline=""
         )
 
     def initialiser_vitesses(self):
