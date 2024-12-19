@@ -4,13 +4,13 @@ Avez-vous invité les correcteurs comme collaborateurs à votre dépôt GitHub (
 
 Étudiant 1 :
     - Nom complet : CHABATI Adel
-    - Numéro de dossier (NI) :
+    - Numéro de dossier (NI) : 536 950 844
     - Estimation du temps de réalisation : 80h 
 
 Étudiant 2 :
-    - Nom complet :
-    - Numéro de dossier (NI) :
-    - Estimation du temps de réalisation :
+    - Nom complet : Isaac Salomon Gauthier
+    - Numéro de dossier (NI) : 537 245 227
+    - Estimation du temps de réalisation : 80h
 
 
 Fonctionnalités
