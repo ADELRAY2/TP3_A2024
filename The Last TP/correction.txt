@@ -11,7 +11,7 @@ Avez-vous invité les correcteurs comme collaborateurs à votre dépôt GitHub (
     - Nom complet : Isaac Salomon Gauthier
     - Numéro de dossier (NI) : 537 245 227
     - Estimation du temps de réalisation : 80h
-
+/////////////// la 2eme branche de github et la principale et c est elle qui contient le projet final 
 
 Fonctionnalités
 ----------------
